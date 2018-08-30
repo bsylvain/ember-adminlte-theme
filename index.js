@@ -36,7 +36,7 @@ module.exports = {
   },
   included: function(app){
     var self = this;
-
+    debugger
     if (typeof app.import !== 'function' && app.app) {
       app = app.app;
     }

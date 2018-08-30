@@ -1,6 +1,6 @@
 {
   "name": "ember-adminlte-theme",
-  "version": "0.2.8",
+  "version": "0.2.17",
   "description": "ember cli adminLte theme ui",
   "keywords": [
     "ember-addon"
@@ -27,7 +27,7 @@
     "broccoli-merge-trees": "^1.1.1",
     "ember-cli-babel": "^6.6.0",
     "ember-cli-htmlbars": "^2.0.1",
-    "ember-cli-htmlbars-inline-precompile": "^0.3.1",
+    "ember-cli-htmlbars-inline-precompile": "^0.4",
     "ember-cli-update": "^0.23.0"
   },
   "devDependencies": {
